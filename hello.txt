@@ -1,4 +1,2 @@
 Hello, Git!
 This is Ra Yun. Welcome!
-
-Message from Github homepage.
